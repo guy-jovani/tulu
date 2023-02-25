@@ -1,0 +1,5 @@
+1. adjust env vars in .env file for your pg setup
+2. run: npm run migrate up
+3. run: npm run prod
+
+4. interact with the api via localhost:3000/notes
